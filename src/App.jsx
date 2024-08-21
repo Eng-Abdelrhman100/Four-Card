@@ -8,7 +8,7 @@ const App = () => {
   return (
     <section className="py-20  px- max-[640px]:px-8 bg-neutral-Very_Light_Gray">
       <div className="w-full min-h-screen text-center font-poppins">
-          <h2 className="text-[30px] max-[640px]:text-[26px] text-neutral-Very_Dark_Blue font-light">Reliable, efficient delivery</h2>
+          <h2 className="text-[30px] max-[640px]:text-[26px] text-neutral-Grayish_Blue font-light">Reliable, efficient delivery</h2>
           <h1 className="text-[30px] max-[640px]:text-[26px] text-neutral-Very_Dark_Blue font-semibold">
             Powered by Technology
           </h1>
