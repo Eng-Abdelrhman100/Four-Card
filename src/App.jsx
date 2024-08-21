@@ -13,7 +13,7 @@ const App = () => {
             Powered by Technology
           </h1>
           <p className="text-text text-neutral-Grayish_Blue font-light mt-5 ">
-           Our Artificial Intelligence powered tools use millions of project data <br className="max-[960px]:hidden"/>
+           Our Artificial Intelligence powered tools use millions of project data <br className="max-[640px]:hidden"/>
            points to ensure that your project is successful
           </p>
           <div className="flex items-center justify-center max-[960px]:flex-col gap-x-8">
