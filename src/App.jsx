@@ -16,7 +16,7 @@ const App = () => {
            Our Artificial Intelligence powered tools use millions of project data <br className="max-[640px]:hidden"/>
            points to ensure that your project is successful
           </p>
-          <div className="flex items-center justify-center max-[960px]:flex-col gap-x-8">
+          <div className="flex items-center justify-center max-[960px]:flex-col gap-x-8 max-[1280px]:gap-x-4">
               <Card title={"Supervisor"} desc={"Monitors activity to identify project roadblocks"} BColor={"border-primary-cyan"} icon={Supervisor} />
               <div className="flex flex-col items-center justify-center ">
                   <Card title={"Team Builder"} desc={"Scans our talent network to create the optimal team for your project"} BColor={"border-primary-red"} icon={TeamBuilder} />
